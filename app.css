@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(61, 61, 61);
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+#submitSearch {
+  color: white;
+  background-color: gray;
+}
+
+#remove {
+  color: white;
+  background-color: orangered;
+}
+
